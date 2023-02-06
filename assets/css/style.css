@@ -1,0 +1,30 @@
+* {
+    padding: 0.5px;
+}
+
+
+body {
+    background-image: linear-gradient(to bottom, #fe4365, #c8c8a9);
+}    
+    
+
+ul {
+    text-align: center;
+    background-color: #fc9d9a;
+    padding: 10px;
+    border: 10px dashed #f9cdad;
+    margin: 20px;
+}
+
+.hero.banner {
+    height: auto;
+    width: auto;
+    background-color: #fe4365;
+    background-image: linear-gradient(to bottom, #fe4365, #c8c8a9);
+}
+
+.banner {
+    font-style: italic;
+    font-family:'Courier New', Courier, monospace;
+}
+
